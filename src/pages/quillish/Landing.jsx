@@ -1,7 +1,7 @@
 import React from 'react'
 import logo1 from '../../images/logo1.png';
-import appstorelogo from '../../images/appstorelogo.webp'
-import googleplay from '../../images/googleplay.webp'
+import appstorelogo from '../../images/appstorelogo.png';
+import googleplay from '../../images/googleplay.png';
 import '../../Theme/css/styles.css'
 import "./landing.css";
 
