@@ -1,0 +1,48 @@
+:root {
+    --primary-color: rgb(190, 171, 149);
+    --secondary-color: rgb(239, 189, 205);
+    --third-color: rgb(225, 175, 190);
+}
+
+.logo {
+    width: 30vw;
+    min-width: 300px;
+    height: auto;
+}
+.appLogo {
+    width: 11vw;
+    height: auto;
+    min-width: 120px;
+    cursor: pointer;
+}
+.header {
+    height: 8vh;
+}
+.main {
+    height: 90vh;
+}
+.footer {
+    height: 4vh;
+}
+
+.createButton{
+    width: 15vw;
+    max-width: 300px;
+    min-width: 175px;
+    height: 45px;
+    font-size: 1.2em;
+    font-weight: 500;
+    letter-spacing: 1.3px;
+    color: white;
+    background-color: var(--third-color);
+    border: solid var(--primary-color) 1px;
+    border-radius: 50px;
+    margin-top: 4vh;
+    
+}
+.createButton:hover {
+    background-color: var(--secondary-color) !important;
+}
+.iconsDiv {
+    margin-top: 8vh;
+}
