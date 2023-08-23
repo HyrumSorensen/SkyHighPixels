@@ -14,10 +14,10 @@ function landing() {
         <button className="createButton">Create account</button>
         <div className="d-flex flex-row justify-content-center iconsDiv">
           <div>
-            <img alt="App Store" className="appLogo mx-4"src={appstorelogo}/>
+            <img alt="App Store" className="appLogo mx-lg-4 mx-2"src={appstorelogo}/>
           </div>
           <div>
-            <img alt="Google Play" className="appLogo mx-4"src={googleplay}/>
+            <img alt="Google Play" className="appLogo mx-lg-4 mx-2"src={googleplay}/>
           </div>
         </div>
       </div>
