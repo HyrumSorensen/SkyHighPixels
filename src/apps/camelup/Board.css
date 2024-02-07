@@ -1,0 +1,63 @@
+.space{
+  width: 150px;
+  height: 120px;
+  border: solid black 1px;
+  border-radius: 10px;
+  margin: 10px;
+}
+.board {
+  margin-top: 300px;
+  justify-content: center;
+  align-items: center;
+}
+.space-1 {
+  transform: translateY(-100px);
+}
+.space-2 {
+  transform: translateY(-50px);
+
+}
+.space-3 {
+
+}
+.space-4 {
+
+}
+.space-5 {
+  transform: translateY(+50px);
+}
+.space-6 {
+  transform: translateY(+100px);
+}
+.space-7 {
+  transform: translateY(+150px);
+
+}
+.space-8 {
+  transform: translateY(+150px);
+}
+.space-9 {
+  transform: translateY(+100px);
+}
+.space-10 {
+  transform: translateY(+50px);
+
+}
+.space-11 {
+
+}
+.space-12 {
+
+}
+.space-13 {
+  transform: translateY(-50px);
+}
+.space-14 {
+  transform: translateY(-100px);
+}
+.space-15 {
+  transform: translateY(-150px);
+}
+.space-16 {
+  transform: translateY(-150px);
+}
