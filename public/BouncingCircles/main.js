@@ -1,7 +1,10 @@
 import { Circle } from "./circle.js";
 import { initShaderProgram } from "./shader.js";
 import { collideParticles } from "./collisions.js";
-import { mat4 } from 'gl-matrix';
+import * as glm from 'https://cdn.jsdelivr.net/npm/gl-matrix@2.8.1/dist/gl-matrix-min.js';
+
+const mat4 = glm.mat4;
+
 
 
 const GRAVITY = 9.8;
